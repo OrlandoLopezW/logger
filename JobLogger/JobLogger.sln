@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{A113B67F-7BF0-458F-92C7-544C0C6B047D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.- Services", "1.- Services", "{8F609AB7-DBBB-49CA-ABDE-54D7A1646D13}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.- Presentation", "2.- Presentation", "{D3AE500A-0AA4-43AF-8F06-C67EB0C11EC9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{5A440E90-72EF-41E1-8524-2B7C87CFB773}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.1.- Logger", "1.1.- Logger", "{4A71EB28-E5E0-4EEC-9B4C-4373546D69A4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JobLogger.LoggerApi", "src\JobLogger.LoggerApi\JobLogger.LoggerApi.csproj", "{66C56889-51D4-4AAE-AB2F-877CCD4DF64A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JobLogger.LoggerApi.Test", "JobLogger.LoggerApi.Test\JobLogger.LoggerApi.Test.csproj", "{52DF3E9D-392F-4D05-A0B3-F606D6A9B56D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JobLogger.Web", "src\JobLogger.Web\JobLogger.Web.csproj", "{2929B60D-16C9-4F47-9E41-E93610548876}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66C56889-51D4-4AAE-AB2F-877CCD4DF64A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66C56889-51D4-4AAE-AB2F-877CCD4DF64A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66C56889-51D4-4AAE-AB2F-877CCD4DF64A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66C56889-51D4-4AAE-AB2F-877CCD4DF64A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52DF3E9D-392F-4D05-A0B3-F606D6A9B56D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52DF3E9D-392F-4D05-A0B3-F606D6A9B56D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52DF3E9D-392F-4D05-A0B3-F606D6A9B56D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52DF3E9D-392F-4D05-A0B3-F606D6A9B56D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2929B60D-16C9-4F47-9E41-E93610548876}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2929B60D-16C9-4F47-9E41-E93610548876}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2929B60D-16C9-4F47-9E41-E93610548876}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2929B60D-16C9-4F47-9E41-E93610548876}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8F609AB7-DBBB-49CA-ABDE-54D7A1646D13} = {A113B67F-7BF0-458F-92C7-544C0C6B047D}
+		{D3AE500A-0AA4-43AF-8F06-C67EB0C11EC9} = {A113B67F-7BF0-458F-92C7-544C0C6B047D}
+		{4A71EB28-E5E0-4EEC-9B4C-4373546D69A4} = {8F609AB7-DBBB-49CA-ABDE-54D7A1646D13}
+		{66C56889-51D4-4AAE-AB2F-877CCD4DF64A} = {4A71EB28-E5E0-4EEC-9B4C-4373546D69A4}
+		{52DF3E9D-392F-4D05-A0B3-F606D6A9B56D} = {5A440E90-72EF-41E1-8524-2B7C87CFB773}
+		{2929B60D-16C9-4F47-9E41-E93610548876} = {D3AE500A-0AA4-43AF-8F06-C67EB0C11EC9}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2787322C-D4F4-4899-848C-78D38E18F7DC}
+	EndGlobalSection
+EndGlobal

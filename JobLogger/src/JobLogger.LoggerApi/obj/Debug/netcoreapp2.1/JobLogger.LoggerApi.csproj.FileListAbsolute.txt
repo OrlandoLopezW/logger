@@ -1,0 +1,14 @@
+C:\Users\USUARIO\Desktop\BELATRIX\JobLogger\src\JobLogger.LoggerApi\bin\Debug\netcoreapp2.1\JobLogger.LoggerApi.deps.json
+C:\Users\USUARIO\Desktop\BELATRIX\JobLogger\src\JobLogger.LoggerApi\bin\Debug\netcoreapp2.1\JobLogger.LoggerApi.runtimeconfig.json
+C:\Users\USUARIO\Desktop\BELATRIX\JobLogger\src\JobLogger.LoggerApi\bin\Debug\netcoreapp2.1\JobLogger.LoggerApi.runtimeconfig.dev.json
+C:\Users\USUARIO\Desktop\BELATRIX\JobLogger\src\JobLogger.LoggerApi\bin\Debug\netcoreapp2.1\JobLogger.LoggerApi.dll
+C:\Users\USUARIO\Desktop\BELATRIX\JobLogger\src\JobLogger.LoggerApi\bin\Debug\netcoreapp2.1\JobLogger.LoggerApi.pdb
+C:\Users\USUARIO\Desktop\BELATRIX\JobLogger\src\JobLogger.LoggerApi\obj\Debug\netcoreapp2.1\JobLogger.LoggerApi.csprojAssemblyReference.cache
+C:\Users\USUARIO\Desktop\BELATRIX\JobLogger\src\JobLogger.LoggerApi\obj\Debug\netcoreapp2.1\JobLogger.LoggerApi.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\BELATRIX\JobLogger\src\JobLogger.LoggerApi\obj\Debug\netcoreapp2.1\JobLogger.LoggerApi.RazorAssemblyInfo.cache
+C:\Users\USUARIO\Desktop\BELATRIX\JobLogger\src\JobLogger.LoggerApi\obj\Debug\netcoreapp2.1\JobLogger.LoggerApi.RazorAssemblyInfo.cs
+C:\Users\USUARIO\Desktop\BELATRIX\JobLogger\src\JobLogger.LoggerApi\obj\Debug\netcoreapp2.1\JobLogger.LoggerApi.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\BELATRIX\JobLogger\src\JobLogger.LoggerApi\obj\Debug\netcoreapp2.1\JobLogger.LoggerApi.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\BELATRIX\JobLogger\src\JobLogger.LoggerApi\obj\Debug\netcoreapp2.1\JobLogger.LoggerApi.RazorTargetAssemblyInfo.cache
+C:\Users\USUARIO\Desktop\BELATRIX\JobLogger\src\JobLogger.LoggerApi\obj\Debug\netcoreapp2.1\JobLogger.LoggerApi.dll
+C:\Users\USUARIO\Desktop\BELATRIX\JobLogger\src\JobLogger.LoggerApi\obj\Debug\netcoreapp2.1\JobLogger.LoggerApi.pdb

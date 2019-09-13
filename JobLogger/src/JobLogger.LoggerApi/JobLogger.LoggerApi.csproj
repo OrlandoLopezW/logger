@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Application\Validations\CreateLogValidations\" />
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="4.9.4" />
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="4.4.0" />
+    <PackageReference Include="AWSSDK.DynamoDBv2" Version="3.3.101.62" />
+    <PackageReference Include="AWSSDK.Extensions.NETCore.Setup" Version="3.3.100.1" />
+    <PackageReference Include="FluentValidation" Version="8.4.0" />
+    <PackageReference Include="MediatR" Version="7.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.0.2105168" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.1.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="4.0.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="4.0.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUi" Version="4.0.1" />
+  </ItemGroup>
+
+</Project>
